@@ -18,3 +18,5 @@ All code in this repo is written in java
 * Day 4
     * Part 1 -> [EASY] Loop and integer manipulation
     * Part 2 -> [MEDIUM] A bit more logic needed for this one
+    
+Didn't have time to continue :(
